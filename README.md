@@ -1,4 +1,4 @@
-# **CancerGuard - Breast Cancer Diagnosis and Treatment Suggestions**
+# **CancerGuard - Early Detection, Empowered Decisions**
 
 ## **Inspiration**
 
